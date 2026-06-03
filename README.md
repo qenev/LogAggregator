@@ -28,6 +28,3 @@ cd LogAggregator
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 MIT License. See `LICENSE` for details.
-
-<!-- Tweak error messages -->
-<!-- Improve structure -->
