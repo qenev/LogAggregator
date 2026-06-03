@@ -1,9 +1,7 @@
 <div align="center">
   <h1>LogAggregator C#</h1>
   <p><b>A powerful, high-throughput centralized logging aggregator written in C#. Ingests millions of events per second with structured querying.</b></p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-</div>
+    </div>
 
 <br/>
 
@@ -20,8 +18,7 @@ cd LogAggregator
 # Follow setup instructions in the wiki
 ```
 
-## License
-This project is open-sourced under the MIT License.
+
 
 <br/><br/>
 <!-- Tweak error messages -->
